@@ -1,3 +1,3 @@
 function opengit(){
-    window.open('https://www.github.com/GokuCodeZ') // Your github link
+    window.open('https://www.github.com/luaxfy') // Your github link
 }
